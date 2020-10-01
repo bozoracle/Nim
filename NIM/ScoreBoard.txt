@@ -1,0 +1,2 @@
+morsi					3
+medo					0

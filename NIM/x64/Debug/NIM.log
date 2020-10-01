@@ -1,0 +1,10 @@
+﻿  Source.cpp
+e:\nim\nim\testcases.h(42): warning C4715: 'check_columns': not all control paths return a value
+e:\nim\nim\testcases.h(76): warning C4715: 'check_pieces': not all control paths return a value
+e:\nim\nim\testcases.h(59): warning C4715: 'check_players': not all control paths return a value
+e:\nim\nim\testcases.h(25): warning C4715: 'check_virsion': not all control paths return a value
+e:\nim\nim\testcases.h(91): warning C4715: 'check_index': not all control paths return a value
+e:\nim\nim\testcases.h(116): warning C4715: 'check_Rpieces': not all control paths return a value
+e:\nim\nim\testcases.h(126): warning C4715: 'check_contiunity': not all control paths return a value
+Source.obj : error LNK2019: unresolved external symbol __imp_PlaySoundW referenced in function main
+E:\NIM\x64\Debug\NIM.exe : fatal error LNK1120: 1 unresolved externals
